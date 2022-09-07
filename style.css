@@ -1,0 +1,19 @@
+div{color: blue;
+    padding: 20px;
+    border: 1px solid blue;
+    text-shadow: 2px 4px 4px rgb(170, 0, 0);
+background-color: black;
+
+}
+    
+h2 {font-style: italic;}
+
+img {border-radius: 100px;}
+
+li {margin: 10px;
+font-style: italic;}
+
+html {
+    background: url( https://www.theverge.com/21302888/cyberpunk-2077-preview-demo-hands-on-ps4-xbox-stadia-cd-projekt-red-impressions   );
+
+}
